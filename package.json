@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "bun-types": "latest",
+    "postcss": "^8.4.41"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.0.1",
+    "@mui/material": "^6.0.1",
+    "@mui/x-date-pickers": "^7.15.0",
+    "material-react-table": "^2.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "simple-peer": "^9.11.1",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.5.4",
+    "webrtc-adapter": "^9.0.1"
+  }
+}
